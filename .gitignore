@@ -129,6 +129,4 @@ dmypy.json
 .pyre/
 
 
-data/nerves_part.tiff
-data/nerves_part_segmentation_masks.npz
-# data/nerves_part_segmentation_slice0.png
+data/*
